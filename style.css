@@ -45,6 +45,7 @@
     padding: 9px 15px;
     color: black;
     animation: anime 1s ease-in-out infinite;
+    transition: all 1s ease-in-out;
 
 }
 @keyframes anime {
@@ -75,7 +76,7 @@ background-color:#f1ffff;
     .para{
         font-size:17px ;
         left: 6%;
-        top: 44%;
+        top: 43.3%;
         
     }
 
